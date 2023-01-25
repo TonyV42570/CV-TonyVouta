@@ -212,7 +212,7 @@ p
     height: 10px;
     background: #f0f0f0;
 }
-.skills .box .percent div
+.skills .box .percent a
 {
     position: absolute;
     top: 0;

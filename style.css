@@ -136,7 +136,7 @@ body
     display: block;
     margin-top: 5px;
 }
-.contactInfo.language .percent div
+.contactInfo.language .percent p
 {
     position: absolute;
     top: 0;

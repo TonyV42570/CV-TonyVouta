@@ -58,7 +58,7 @@ body
     height: 100%;
     object-fit: cover;
 }
-.profileText h2
+.profileText h1
 {
     color: #fff;
     font-size: 1.5em;
